@@ -18,7 +18,11 @@
 
   ## Usage 
   To generate a readme file.
+
+  ## Walkthrough Video
   ![Professional Generator Walkthrough Video](./utils/Readme-generator.gif)
+
+  ## Screenshot
   ![Professional Generator Screenshot](./utils/Professional-Readme.png)
 
   ## License 
