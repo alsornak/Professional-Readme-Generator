@@ -18,6 +18,8 @@
 
   ## Usage 
   To generate a readme file.
+  ![Professional Generator Walkthrough Video](./utils/Readme-generator.gif)
+  ![Professional Generator Screenshot](./utils/Professional-Readme-Generator.png)
 
   ## License 
   This project is license under MIT
