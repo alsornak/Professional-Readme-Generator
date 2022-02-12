@@ -20,7 +20,7 @@
   To generate a readme file.
 
   ## Walkthrough Video
-  ![Professional Generator Walkthrough Video](https://drive.google.com/drive/my-drive)
+  ![Professional Generator Walkthrough Video](https://youtu.be/4MegxxYXcHg)
 
   ## Screenshot
   ![Professional Generator Screenshot](./utils/Professional-Readme.png)
