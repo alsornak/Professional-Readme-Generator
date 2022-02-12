@@ -20,7 +20,7 @@
   To generate a readme file.
 
   ## Walkthrough Video
-  ![Professional Generator Walkthrough Video](.<iframe src="https://drive.google.com/file/d/1q19G4wvG_8v8X6ZBxi6MrTCbfWNCs719/preview" width="640" height="480"></iframe>)
+  ![Professional Generator Walkthrough Video](<iframe src="https://drive.google.com/file/d/1q19G4wvG_8v8X6ZBxi6MrTCbfWNCs719/preview" width="640" height="480"></iframe>)
 
   ## Screenshot
   ![Professional Generator Screenshot](./utils/Professional-Readme.png)
